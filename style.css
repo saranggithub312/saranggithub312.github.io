@@ -1,0 +1,108 @@
+.headeritems{
+    display: flex;
+    height: 3em;
+    
+}
+
+.helem1{
+    margin: 20px;
+    margin-left: 30px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.helem2{
+    margin: 25px;
+}
+
+.helem3{
+    margin: 25px;
+}
+.helem4{
+    margin: 25px;
+}
+.helemlast{
+    margin: 25px;
+    margin-left: 23em;
+
+}
+.HeaderButton{
+    padding: 15px;
+    background-color: #8EE5D1;
+    border: 1px ;
+    border-radius: 34px;
+    margin-top: 12px;
+    font-weight: 700;
+    margin-top:10px;
+}
+
+
+.leftsection{
+    
+    float:left;
+    width:60%;
+    height: 20em;
+
+}
+.rightsection{
+    
+    float:right
+    width: 40%;
+    height: 20em;
+}
+
+.image{
+    width:20em;
+    margin-top: 34px;
+    margin-left: 34px;
+    align-items: center;
+}
+.headtext1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-left: 26px;
+    padding-top: 35px;
+    margin:20px;
+    
+}
+
+.headtext2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-left: 26px;
+    padding-top: 5px;
+    margin:20px;
+
+    
+}
+
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:20px;
+    padding-left: 26px;
+    font-size: small;
+}
+
+.formdetails{
+    display:flex;
+    background-color: #F4F7FA
+
+}
+.HeaderButton1{
+    padding: 5px;
+    background-color: #8EE5D1;
+    border: 1px ;
+    border-radius: 14px;
+    margin-top: 6px;
+    font-weight: 700;
+    margin-top:19px;
+    height: 3em;
+
+}
+
+.typeit{
+    width:20em;
+    margin:20px;
+    height: 34px;
+    margin-left: 250px;
+}
